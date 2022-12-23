@@ -53,7 +53,7 @@ npm install --legacy-peer-dep
   
   
   <img
-  src="github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture5.PNG"
+  src="https://github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture5.PNG"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
