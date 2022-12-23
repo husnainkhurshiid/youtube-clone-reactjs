@@ -10,6 +10,13 @@ Youtube clone created using React Js, Material UI5 and Rapid API
 - Play Videos
 - Search Videos
 
+# Download
+
+```
+npm install --legacy-peer-dep
+
+```
+
 # Tech Stack
 
 **Tools Used** - React.js, Materual UI5, Rapid API
