@@ -24,3 +24,9 @@ npm install --legacy-peer-dep
 # Author
 
 - Husnain Khurshid
+
+<img
+  src="[/path/to/img.jpg](https://github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture.PNG)"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
