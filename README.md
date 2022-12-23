@@ -25,9 +25,37 @@ npm install --legacy-peer-dep
 
 - Husnain Khurshid
 
+# Screenshots
+
 <img
   src="https://github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture.PNG"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
+<img
+  src="https://github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture.PNG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="https://github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture3.PNG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="https://github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture4.PNG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  
+  <img
+  src="github.com/mhusnainkh/youtube-clone-reactjs/blob/master/screenshots/Capture5.PNG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  
